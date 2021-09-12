@@ -1,0 +1,39 @@
+body{
+    font-family: Avenir;
+    background-color: #35465c;
+}
+
+h1{
+    color: blue;
+    font-size: 2em;
+}
+
+h2{
+    color: dimgray;
+}
+
+h5{
+    color: gray;
+}
+
+p{
+
+    color: darkslategray;
+    margin-right: 100px;
+}
+
+ul li{
+    color: cadetblue;
+    font-weight: bold;
+
+}
+
+strong{
+
+    color: black;
+}
+
+em{
+
+    color: seagreen;
+}
